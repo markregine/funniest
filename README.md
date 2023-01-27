@@ -1,5 +1,5 @@
 # funniest
-* ### This is a first attempt to use git and pipy to manage a hypertheticla module i want to build
+* ### This is a first attempt to use git and pipy to manage a hypothetical module i want to build
 
 ### I used the following websites to build a module and publish it to pipy.
 * #### https://pythonhosted.org/foo-test/minimal.html
